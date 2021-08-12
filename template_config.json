@@ -1,9 +1,9 @@
 {
-    "client_secret":"",
-    "client_id":"",
-    "redirect_uri":"",
-    "google_secret":"",
+    "client_secret":"0dS-7Tksq0MbaIUukojfHfxmQoBcZ4IF",
+    "client_id":"875465186318901270",
+    "redirect_uri":"https://shdhdbddhfhdhdh.herokuapp.com/verify",
+    "google_secret":"6LcVFfgbAAAAAC27eYNY5_gYz2f37p-T8f_pOApB",
     "bot_token":"ODc1NDY1MTg2MzE4OTAxMjcw.YRV6fQ.q4ubU8wxBlKWK3QYf4LF4tk5EOk",
-    "guild_id":"",
-    "verifiedRole_id":""
+    "guild_id":"871848423161221141",
+    "verifiedRole_id":"871856811576262777"
 }
